@@ -99,7 +99,7 @@ The meta-analysis provides criteria for reviewing the website's usability and pr
 
 The screenshot below shows the shared Zotero Group Library for Team 6. The library contains ten sources contributed by all five group members. The "Added By" column provides evidence of each member's contribution to the shared bibliography database.
 
-![Team 6 Zotero Group Library showing the shared bibliography database, source titles, and contributor information.](zotero-group-library.png){#fig-zotero-group-library width=95%}
+![Team 6 Zotero Group Library showing the shared bibliography database, source titles, and contributor information.](zotero-group-library.png){#fig-zotero-group-library width="95%"}
 
 # Example Zotero Item Screenshot
 
@@ -109,20 +109,20 @@ The following screenshots show a completed Zotero record for *Consumers' Evaluat
 
 The Zotero item includes complete citation metadata, including the article title, authors, journal, publication date, volume, issue, DOI, URL, and contributor information.
 
-![Citation information for a completed Zotero item in the Team 6 shared library.](zotero-example-item-info.png){#fig-zotero-item-info width=95%}
+![Citation information for a completed Zotero item in the Team 6 shared library.](zotero-example-item-info.png){#fig-zotero-item-info width="95%"}
 
 ## Attachment, Note, and Tags
 
 The same Zotero item also includes a full-text PDF attachment, a research note explaining the source's relevance to the project, and three descriptive tags.
 
-![Attachment, research note, and tags for the completed Zotero item.](zotero-example-item-notes-tags.png){#fig-zotero-item-notes-tags width=95%}
+![Attachment, research note, and tags for the completed Zotero item.](zotero-example-item-notes-tags.png){#fig-zotero-item-notes-tags width="95%"}
 
 # Group Source Summary Table
 
 The following table summarizes the ten sources contributed by the five members of Team 6. Each member contributed two sources to the shared Zotero Group Library.
 
 | Source Title | Contributed By | Type of Source | Why This Source Is Useful |
-|:--|:--|:--|:--|
+|:-----------------|:-----------------|:-----------------|:-----------------|
 | A Method for the Design and Development of Medical or Health Care Information Websites to Optimize Search Engine Results Page Rankings on Google | Willy Su | Journal Article | Supports website design and SEO strategies for improving visibility in Google search results. |
 | Quality assessment of online information on orthodontic Web sites in the United States | Willy Su | Journal Article | Provides evidence for evaluating orthodontic website information quality, patient information, and website credibility. |
 | Orthodontic marketing through social media networks: The pat... | Peiyun Chuang | Journal Article | Provides information about social media use in orthodontic marketing and patient engagement. |
@@ -158,4 +158,4 @@ The project repository is available here:
 
 The published report is available here:
 
-[IBM 6500 – Group 6 – CEP01 Zotero GitHub Pages](PASTE-GITHUB-PAGES-LINK-HERE)
+[IBM 6500 – Group 6 – CEP01 Zotero GitHub Pages](https://candicechuang.github.io/IBM-6500-Group-6-CEP01-Zotero/)
