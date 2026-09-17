@@ -1,0 +1,161 @@
+---
+title: "CEP01 – Bibliography Database Using Zotero"
+subtitle: "IBM 6500 | Team 6 | PhD Orthodontics"
+author:
+  - Han Mai
+  - Willy Su
+  - Pei Yun Chuang
+  - Xueying Luo
+  - Yujia Luo
+date: today
+format:
+  html:
+    theme: default
+    mainfont: Arial
+    toc: true
+    toc-depth: 4
+    toc-expand: 2
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    code-fold: true
+    code-overflow: wrap
+    code-tools: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Project Overview
+
+**Project:** PhD Orthodontics — Website Redesign, SEO Strategy, and Digital Marketing Optimization.
+
+**Team:** Team 6 — Han Mai, Willy Su, Pei Yun Chuang, Xueying Luo, and Yujia Luo.
+
+The bibliography supports the group's work on the PhD Orthodontics website and digital marketing strategy for San Gabriel and Chino Hills. The sources address how patients search for orthodontic information and how they evaluate the quality of health information online.
+
+# Selected Source Examples
+
+## Han Mai — Selected Sources
+
+| Source | Publication | Relevance to the CEP |
+|:-----------------------|:-----------------------|:-----------------------|
+| Zhang and Kim (2022), *Consumers’ Evaluation of Web-Based Health Information Quality: Meta-analysis* | *Journal of Medical Internet Research*, 24(4), e36463 | Provides evidence for evaluating website navigation, readability, and visual presentation. |
+| Crispino et al. (2023), *Orthodontic patients and the information found on the web: a cross-sectional study* | *BMC Oral Health*, 23(1), 860 | Provides context for patients' online searches and the role of Google before an orthodontic visit. |
+
+: Sources contributed by Han Mai. {#tbl-han-mai-sources}
+
+The two sources in @tbl-han-mai-sources connect website design decisions with patients' information needs. Both are stored in the shared Zotero library with a full-text PDF, a note, and three tags.
+
+::: panel-tabset
+## Zhang and Kim (2022)
+
+**Reference**
+
+Zhang, Y., & Kim, Y. (2022). Consumers’ Evaluation of Web-Based Health Information Quality: Meta-analysis. *Journal of Medical Internet Research, 24*(4), e36463. <https://doi.org/10.2196/36463>
+
+**Source:** [Publisher's article page](https://www.jmir.org/2022/4/e36463)
+
+**Attachment:** Full-text PDF attached to the Zotero record.
+
+**Research Note**
+
+This meta-analysis synthesizes 147 studies examining how consumers evaluate the quality of web-based health information. It identifies website navigability, visual aesthetics, and ease of understanding as factors strongly associated with perceived information quality. Our group can use these findings to develop criteria for auditing and redesigning the PhD Orthodontics website. In particular, the study supports prioritizing clear navigation, readable patient information, and a well-organized visual presentation. Because it examines health information broadly, it does not directly establish that these improvements will increase orthodontic consultation bookings.
+
+**Tags**
+
+-   patient trust
+-   website design
+-   website usability
+
+## Crispino et al. (2023)
+
+**Reference**
+
+Crispino, R., et al. (2023). Orthodontic patients and the information found on the web: a cross-sectional study. *BMC Oral Health, 23*(1), 860. <https://doi.org/10.1186/s12903-023-03609-4>
+
+**Source:** [PubMed record](https://pubmed.ncbi.nlm.nih.gov/37957643/)
+
+**Attachment:** Full-text PDF attached to the Zotero record.
+
+**Research Note**
+
+This cross-sectional study examines how orthodontic patients and parents or guardians use online information and perceive its reliability. The researchers analyzed 986 valid questionnaires from four countries and found that 64.6% of respondents searched online for orthodontic information before their visit. Among those who searched online, 81% reported Google as their main platform. Our group can use this source to support patient-focused website content, clear FAQs, and a search strategy for PhD Orthodontics in San Gabriel and Chino Hills. Because the findings are self-reported and cross-sectional, they do not establish that SEO or website changes cause more consultation bookings.
+
+**Tags**
+
+-   Google search
+-   patient decision-making
+-   patient information
+:::
+
+::: callout-note
+## Application to the Project
+
+The meta-analysis provides criteria for reviewing the website's usability and presentation. The orthodontic survey helps identify the information patients may seek before a consultation. The group can use both sources to inform website content and design, while evaluating the results of any changes separately.
+:::
+
+# Zotero Group Library Screenshot
+
+The screenshot below shows the shared Zotero Group Library for Team 6. The library contains ten sources contributed by all five group members. The "Added By" column provides evidence of each member's contribution to the shared bibliography database.
+
+![Team 6 Zotero Group Library showing the shared bibliography database, source titles, and contributor information.](zotero-group-library.png){#fig-zotero-group-library width=95%}
+
+# Example Zotero Item Screenshot
+
+The following screenshots show a completed Zotero record for *Consumers' Evaluation of Web-Based Health Information Quality: Meta-analysis*. Together, they demonstrate the citation information, attached full-text file, research note, and tags stored in the shared Zotero library.
+
+## Citation Information
+
+The Zotero item includes complete citation metadata, including the article title, authors, journal, publication date, volume, issue, DOI, URL, and contributor information.
+
+![Citation information for a completed Zotero item in the Team 6 shared library.](zotero-example-item-info.png){#fig-zotero-item-info width=95%}
+
+## Attachment, Note, and Tags
+
+The same Zotero item also includes a full-text PDF attachment, a research note explaining the source's relevance to the project, and three descriptive tags.
+
+![Attachment, research note, and tags for the completed Zotero item.](zotero-example-item-notes-tags.png){#fig-zotero-item-notes-tags width=95%}
+
+# Group Source Summary Table
+
+The following table summarizes the ten sources contributed by the five members of Team 6. Each member contributed two sources to the shared Zotero Group Library.
+
+| Source Title | Contributed By | Type of Source | Why This Source Is Useful |
+|:--|:--|:--|:--|
+| A Method for the Design and Development of Medical or Health Care Information Websites to Optimize Search Engine Results Page Rankings on Google | Willy Su | Journal Article | Supports website design and SEO strategies for improving visibility in Google search results. |
+| Quality assessment of online information on orthodontic Web sites in the United States | Willy Su | Journal Article | Provides evidence for evaluating orthodontic website information quality, patient information, and website credibility. |
+| Orthodontic marketing through social media networks: The pat... | Peiyun Chuang | Journal Article | Provides information about social media use in orthodontic marketing and patient engagement. |
+| Orthodontic practice marketing: The orthodontist and laypeop... | Peiyun Chuang | Journal Article | Provides insights into orthodontic practice marketing and communication with prospective patients. |
+| Orthodontic patients and the information found on the web: a... | Han Mai | Journal Article | Examines the information orthodontic patients find online and can support decisions about website content and patient information. |
+| Consumers’ Evaluation of Web-Based Health Information Quality... | Han Mai | Journal Article | Provides insights into how consumers evaluate the quality and credibility of online health information. |
+| Influence of social media on the choice of orthodontist and ... | Yujia Luo | Journal Article | Examines the influence of social media on patients’ choice of orthodontists and supports social media marketing strategies. |
+| Attracting orthodontic patients via the Internet: A 20-year ... | Yujia Luo | Journal Article | Provides evidence about using the Internet to attract orthodontic patients and support patient acquisition strategies. |
+| Advertising of orthodontic appliances on websites in the UK:... | Xueying Luo | Journal Article | Provides information about online advertising of orthodontic products and can inform digital advertising and website content strategies. |
+| Methodological Guidelines for Systematic Assessments of Heal... | Xueying Luo | Journal Article | Provides methodological guidance for evaluating health information websites and supports systematic website assessment. |
+
+: Group source summary for Team 6. {#tbl-group-sources}
+
+# Zotero Group Library Link or Invitation Information
+
+The Zotero Group Library for Team 6 is available at the following link:
+
+[IBM 6500 – Group 6 – Bibliography Database](https://www.zotero.org/groups/6672648/ibm_6500__group_6__bibliography_database/library)
+
+# Optional Google Drive Link
+
+Our group did not use an optional Google Drive backup folder for this assignment. The shared Zotero Group Library serves as the main bibliography database.
+
+# Appendix
+
+## GitHub Repository
+
+The project repository is available here:
+
+[IBM 6500 – Group 6 – CEP01 Zotero GitHub Repository](https://github.com/candicechuang/IBM-6500-Group-6-CEP01-Zotero)
+
+## GitHub Pages
+
+The published report is available here:
+
+[IBM 6500 – Group 6 – CEP01 Zotero GitHub Pages](PASTE-GITHUB-PAGES-LINK-HERE)
